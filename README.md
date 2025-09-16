@@ -1,5 +1,3 @@
-# 👋 Hi there!
-
 ## 🌍 **Information**
 - **Name:** Jonne
 - **Hometown:** Rovaniemi, :finland:
