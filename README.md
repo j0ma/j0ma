@@ -9,9 +9,9 @@
 - **Low-resource NLP & AI:** 
   - Bridging the digital divide for **7,000+ languages**, with only **100** supported by AI
   - Focus on **multilingual representation learning**, leveraging **external knowledge**, and exploring **data augmentation**
-  - LLM evaluation by Investigating compositional generalization capability of LLMs using morphological reasoning
+  - Developing **high-quality resources** and evaluation sets for as many languages as possible
 - **Model Evaluation:** 
-  - Developing high-quality resources and evaluation sets for as many languages as possible
+  - LLM evaluation by investigating compositional generalization capability of LLMs using morphological reasoning
   - Uncertainty quantification in multilingual AI/NLP leaderboards using resampling and statistical design
 
 ## 🛠️ **Workshops organized**
