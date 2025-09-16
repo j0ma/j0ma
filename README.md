@@ -21,7 +21,7 @@
 - CoCo4MT Shared Task on Corpus Construction (MTSummit 2023)
 
 ## 🏆 **Recent publications**
-- **2025:** [Evaluating Morphological Compositional Generalization in Large Language Models](https://www.aclweb.org/anthology/2025.naacl-main.18/) (NAACL 2025) 
+- **2025:** [Evaluating Morphological Compositional Generalization in Large Language Models](https://aclanthology.org/2025.naacl-long.59/) (NAACL 2025) 
 - **2024:** 
   - [Language Model Priors and Data Augmentation Strategies for Low-resource Machine Translation](https://aclanthology.org/2024.findings-acl.768/) (ACL Findings 2024)
   - [ParaNames 1.0: A Multilingual Entity Name Corpus](https://aclanthology.org/2024.lrec-main.1103/) (LREC-COLING 2024)
