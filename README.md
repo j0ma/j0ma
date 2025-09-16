@@ -15,10 +15,10 @@
   - Uncertainty quantification in multilingual AI/NLP leaderboards using resampling and statistical design
 
 ## 🛠️ **Workshops organized**
-- Fourth Workshop on Multilingual Representation Learning (EMNLP 2024)
-- First Workshop on NLP for Turkic Languages (ACL 2024)
-- DCLRL Workshop on Dataset Creation (LREC 2022)
-- CoCo4MT Shared Task on Corpus Construction (MTSummit 2023)
+- [Fourth Workshop on Multilingual Representation Learning](https://sigtyp.github.io/ws2024-mrl.html) (EMNLP 2024)
+- [First Workshop on NLP for Turkic Languages](https://aclanthology.org/volumes/2024.sigturk-1/) (ACL 2024)
+- [DCLRL Workshop on Dataset Creation](https://dclrl.github.io/) (LREC 2022)
+- [CoCo4MT Shared Task on Corpus Construction](https://aclanthology.org/2023.mtsummit-coco4mt.3/) (MTSummit 2023)
 
 ## 🏆 **Recent publications**
 - **2025:** [Evaluating Morphological Compositional Generalization in Large Language Models](https://aclanthology.org/2025.naacl-long.59/) (NAACL 2025) 
