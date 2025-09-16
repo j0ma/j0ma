@@ -7,7 +7,7 @@
 - **Currently:** PhD Student, Computer Science @ Brandeis University
 - **Interests:** Linux, language learning, statistics
 
-## 👨‍🎓 **Research Interests**
+## 👨‍🎓 **Research interests**
 - **Low-resource NLP & AI:** 
   - Bridging the digital divide for **7,000+ languages**, with only **100** supported by AI
   - Focus on **multilingual representation learning**, leveraging **external knowledge**, and exploring **data augmentation**
@@ -16,13 +16,13 @@
   - Developing high-quality resources and evaluation sets for as many languages as possible
   - Uncertainty quantification in multilingual AI/NLP leaderboards using resampling and statistical design
 
-## 🛠️ **Workshops Organized**
+## 🛠️ **Workshops organized**
 - Fourth Workshop on Multilingual Representation Learning (EMNLP 2024)
 - First Workshop on NLP for Turkic Languages (ACL 2024)
 - DCLRL Workshop on Dataset Creation (LREC 2022)
 - CoCo4MT Shared Task on Corpus Construction (MTSummit 2023)
 
-## 🏆 **Recent Publications**
+## 🏆 **Recent publications**
 - **2025:** [Evaluating Morphological Compositional Generalization in Large Language Models](https://www.aclweb.org/anthology/2025.naacl-main.18/) (NAACL 2025) 
 - **2024:** 
   - [Language Model Priors and Data Augmentation Strategies for Low-resource Machine Translation](https://aclanthology.org/2024.findings-acl.768/) (ACL Findings 2024)
