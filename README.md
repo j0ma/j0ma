@@ -26,7 +26,7 @@
 - **2024** 
   - [Language Model Priors and Data Augmentation Strategies for Low-resource Machine Translation](https://aclanthology.org/2024.findings-acl.768/) (Sälevä & Lignos @ ACL Findings 2024)
   - [ParaNames 1.0: A Multilingual Entity Name Corpus](https://aclanthology.org/2024.lrec-main.1103/) (Sälevä & Lignos @ LREC-COLING 2024)
-  - First place in the [**VarDial 2024** DSL-ML Shared Task](https://aclanthology.org/2024.vardial-1.22/) 🥇 (Sälevä & Palen-Michel @ VarDial 2024)
+  - First place in the [VarDial 2024 DSL-ML Shared Task](https://aclanthology.org/2024.vardial-1.22/) 🥇 (Sälevä & Palen-Michel @ VarDial 2024)
 - **2023**
   - [What changes when you randomly choose BPE merge operations? Not much.](https://aclanthology.org/2023.insights-1.7/) (Sälevä & Lignos @ EACL 2023) - Best Paper Award ✨
 
