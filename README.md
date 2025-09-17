@@ -6,11 +6,11 @@
 - **Other interests:** Linux, language learning, statistics
 
 ## 👨‍🎓 **Research interests**
-- **Low-resource NLP & AI:** 
+- **Low-resource NLP & AI** 
   - Bridging the digital divide for **7,000+ languages**, with only **100** supported by AI
   - Focus on **multilingual representation learning**, leveraging **external knowledge**, and exploring **data augmentation**
   - Developing **high-quality resources** and evaluation sets for as many languages as possible
-- **Model Evaluation:** 
+- **Model Evaluation** 
   - LLM evaluation by investigating compositional generalization capability of LLMs using morphological reasoning
   - Uncertainty quantification in multilingual AI/NLP leaderboards using resampling and statistical design
 
@@ -21,13 +21,14 @@
 - [DCLRL Workshop on Dataset Creation](https://dclrl.github.io/) (LREC 2022)
 
 ## 🏆 **Recent publications**
-- **2025:**
+- **2025**
   - [Evaluating Morphological Compositional Generalization in Large Language Models](https://aclanthology.org/2025.naacl-long.59/) (Ismayilzada et al @ NAACL 2025)
-- **2024:** 
+- **2024** 
   - [Language Model Priors and Data Augmentation Strategies for Low-resource Machine Translation](https://aclanthology.org/2024.findings-acl.768/) (Sälevä & Lignos @ ACL Findings 2024)
   - [ParaNames 1.0: A Multilingual Entity Name Corpus](https://aclanthology.org/2024.lrec-main.1103/) (Sälevä & Lignos @ LREC-COLING 2024)
   - First place in the [**VarDial 2024** DSL-ML Shared Task](https://aclanthology.org/2024.vardial-1.22/) 🥇 (Sälevä & Palen-Michel @ VarDial 2024)
-- **2023:** [What changes when you randomly choose BPE merge operations? Not much.](https://aclanthology.org/2023.insights-1.7/) (Sälevä & Lignos @ EACL 2023) - Best Paper Award ✨
+- **2023**
+  - [What changes when you randomly choose BPE merge operations? Not much.](https://aclanthology.org/2023.insights-1.7/) (Sälevä & Lignos @ EACL 2023) - Best Paper Award ✨
 
 For more, see [ACL Anthology](https://aclanthology.org/people/jonne-saleva/)
 
