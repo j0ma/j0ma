@@ -29,7 +29,7 @@
   - First place in the [**VarDial 2024** DSL-ML Shared Task](https://aclanthology.org/2024.vardial-1.22/) 🥇 (Sälevä & Palen-Michel @ VarDial 2024)
 - **2023:** [What changes when you randomly choose BPE merge operations? Not much.](https://aclanthology.org/2023.insights-1.7/) (Sälevä & Lignos @ EACL 2023) - Best Paper Award ✨
 
-For more, see [ACL Anthology]()
+For more, see [ACL Anthology](https://aclanthology.org/people/jonne-saleva/)
 
 ## 💡 **Announcements**
 - Actively seeking **AI/ML Engineer** and **research-oriented industry roles** starting early 2026.
