@@ -17,8 +17,8 @@
 ## 🛠️ **Workshops organized**
 - [Fourth Workshop on Multilingual Representation Learning](https://sigtyp.github.io/ws2024-mrl.html) (EMNLP 2024)
 - [First Workshop on NLP for Turkic Languages](https://aclanthology.org/volumes/2024.sigturk-1/) (ACL 2024)
-- [DCLRL Workshop on Dataset Creation](https://dclrl.github.io/) (LREC 2022)
 - [CoCo4MT Shared Task on Corpus Construction](https://aclanthology.org/2023.mtsummit-coco4mt.3/) (MTSummit 2023)
+- [DCLRL Workshop on Dataset Creation](https://dclrl.github.io/) (LREC 2022)
 
 ## 🏆 **Recent publications**
 - **2025:**
