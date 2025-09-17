@@ -3,7 +3,7 @@
 - **Hometown:** Rovaniemi, :finland:
 - **Location:** Greater Boston, MA, USA
 - **Currently:** PhD Student, Computer Science @ Brandeis University
-- **Interests:** Linux, language learning, statistics
+- **Other interests:** Linux, language learning, statistics
 
 ## 👨‍🎓 **Research interests**
 - **Low-resource NLP & AI:** 
