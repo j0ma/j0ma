@@ -5,6 +5,10 @@
 - **Currently:** PhD Student, Computer Science @ Brandeis University
 - **Other interests:** Linux, language learning, statistics
 
+## 💡 **Announcements**
+- Actively seeking **AI/ML Engineer** and **research-oriented industry roles** starting early 2026.
+- Passionate about projects in **multilinguality** and **low-resource languages**!
+
 ## 👨‍🎓 **Research interests**
 - **Low-resource NLP & AI** 
   - Bridging the digital divide for **7,000+ languages**, with only **100** supported by AI
@@ -32,6 +36,3 @@
 
 For more, see [ACL Anthology](https://aclanthology.org/people/jonne-saleva/)
 
-## 💡 **Announcements**
-- Actively seeking **AI/ML Engineer** and **research-oriented industry roles** starting early 2026.
-- Passionate about projects in **multilinguality** and **low-resource languages**!
