@@ -18,6 +18,13 @@
   - LLM evaluation by investigating compositional generalization capability of LLMs using morphological reasoning
   - Uncertainty quantification in multilingual AI/NLP leaderboards using resampling and statistical design
 
+## 💻 **Software**
+
+- `reuben`: REsampling Uncertainty Bounds for Evaluating NLP
+  - CLI tool for **uncertainty-aware performance evaluation** of NLP models
+  - Useful for **leaderboards** and **multi-task/multi-lingual evaluation**
+  - Links: [repo](https://github.com/j0ma/reuben) and [latest release](https://github.com/j0ma/reuben/releases/tag/v0.1.6)
+
 ## 🛠️ **Workshops organized**
 - [Fourth Workshop on Multilingual Representation Learning](https://sigtyp.github.io/ws2024-mrl.html) (EMNLP 2024)
 - [First Workshop on NLP for Turkic Languages](https://aclanthology.org/volumes/2024.sigturk-1/) (ACL 2024)
