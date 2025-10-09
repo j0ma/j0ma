@@ -10,8 +10,8 @@
 - Passionate about projects in **multilinguality** and **low-resource languages**!
 
 ## 👨‍🎓 **Research interests**
-- **Low-resource NLP & AI** 
-  - Bridging the digital divide for **7,000+ languages**, with only **100** supported by AI
+- **Multilingual AI & NLP** 
+  - Bridging the digital divide for all **7,000+ languages** of the 🌎, of which only **~100** are supported by AI
   - Focus on **multilingual representation learning**, leveraging **external knowledge**, and exploring **data augmentation**
   - Developing **high-quality resources** and evaluation sets for as many languages as possible
 - **Model Evaluation** 
