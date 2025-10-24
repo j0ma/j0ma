@@ -6,7 +6,7 @@
 - **Other interests:** Linux, language learning, (Bayesian) statistics
 
 ## 💡 **Announcements**
-- Actively seeking **AI/ML Engineer** and **research-oriented industry roles** starting early 2026.
+- Actively seeking **AI/ML Engineer** and **research-oriented industry roles** starting in 2026.
 - Passionate about projects in **multilinguality** and **low-resource languages**!
 
 ## 👨‍🎓 **Research interests**
