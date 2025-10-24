@@ -34,6 +34,8 @@
 
 ## 🏆 **Recent publications**
 - **2025**
+  - [From tests to effect sizes: Quantifying uncertainty and statistical variability in multilingual and multitask NLP evaluation benchmarks](https://arxiv.org/abs/2509.22612) (Sälevä et al, *Under review*)
+  - [OpenNER 1.0: Standardized Open-Access Named Entity Recognition Datasets in 50+ Languages](https://arxiv.org/abs/2412.09587) (Palen-Michel et al @ EMNLP 2025)
   - [Evaluating Morphological Compositional Generalization in Large Language Models](https://aclanthology.org/2025.naacl-long.59/) (Ismayilzada et al @ NAACL 2025)
 - **2024** 
   - [Language Model Priors and Data Augmentation Strategies for Low-resource Machine Translation](https://aclanthology.org/2024.findings-acl.768/) (Sälevä & Lignos @ ACL Findings 2024)
