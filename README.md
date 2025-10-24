@@ -3,7 +3,7 @@
 - **Hometown:** Rovaniemi, :finland:
 - **Location:** Greater Boston, MA, USA
 - **Currently:** PhD Student, Computer Science @ Brandeis University
-- **Other interests:** Linux, language learning, statistics
+- **Other interests:** Linux, language learning, (Bayesian) statistics
 
 ## 💡 **Announcements**
 - Actively seeking **AI/ML Engineer** and **research-oriented industry roles** starting early 2026.
@@ -26,6 +26,7 @@
   - Links: [repo](https://github.com/j0ma/reuben) and [latest release](https://github.com/j0ma/reuben/releases/latest)
 
 ## 🛠️ **Workshops organized**
+- [Second Workshop on NLP for Turkic Languages](https://sigturk.github.io/workshop2026) (EACL 2026)
 - [Fourth Workshop on Multilingual Representation Learning](https://sigtyp.github.io/ws2024-mrl.html) (EMNLP 2024)
 - [First Workshop on NLP for Turkic Languages](https://aclanthology.org/volumes/2024.sigturk-1/) (ACL 2024)
 - [CoCo4MT Shared Task on Corpus Construction](https://aclanthology.org/2023.mtsummit-coco4mt.3/) (MTSummit 2023)
