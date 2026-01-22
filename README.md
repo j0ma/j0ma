@@ -6,6 +6,7 @@
 - **Other interests:** Linux, language learning, (Bayesian) statistics
 
 ## 💡 **Announcements**
+- Excited to announce that our recent [LLM evaluation paper](https://aclanthology.org/2025.ijcnlp-long.125/) won the ⭐ [**Best Paper Award**](https://2025.aaclnet.org/program/best_papers/) ⭐ at AACL 2025 (**top 0.25% of papers**)!
 - Actively seeking **AI/ML Engineer** and **research-oriented industry roles** starting in 2026.
 - Passionate about projects in **multilinguality** and **low-resource languages**!
 
